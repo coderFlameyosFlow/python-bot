@@ -36,4 +36,4 @@ async def loadAllExtensions():
 # Set up cogs
 if __name__ == "__main__":
     await loadAllExtensions()
-    bot.start("MTAyNzI1NTE5OTE1ODUyMTk0OA.GFehQ6.vfWz8by8hrcI8AGG0FWW5zheDrcFD9HaVb46_Q")
+    bot.start("censored")
